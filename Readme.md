@@ -1,3 +1,6 @@
+#HTML Empty Site template [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
 # Blank HTML5 Website Framework
 
 The whole point of this is to abstract things I do over and over again when starting a new web design/development project. This reflects my workflow and may change over time because of that. 
